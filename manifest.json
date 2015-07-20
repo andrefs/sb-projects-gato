@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "name": "gato",
+        "manifest": {
+            "version": "v1"
+        }
+    },
+    "sources": [
+        {
+            "id": "HnBjnPQ7_MM",
+            "title": "Gato Fedorento - Pernas de Peru Assadeiros de Miranda",
+            "length": 291,
+            "dateDownloaded": "2015-07-03T11:10:24.931Z",
+            "size": 3573950,
+            "path": "./sources/HnBjnPQ7_MM.webm"
+        }
+    ],
+    "sounds": [
+        {
+            "id": "000001",
+            "sourceID": "HnBjnPQ7_MM",
+            "paths": {
+                "mp3": "./sounds/000001.mp3",
+                "ogg": "./sounds/000001.ogg"
+            },
+            "startsAt": 170,
+            "length": 2,
+            "text": "Tá bem tá",
+            "dateAdded": "2015-07-03T11:16:01.623Z"
+        }
+    ]
+}
