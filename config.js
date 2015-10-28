@@ -21,5 +21,23 @@ exports.config = {
     soundsPath        : './sounds',
     tmpPath           : './tmp',
     defaultClipMargin : '2',
-    soundEditCommand  : 'audacity'
+    soundEditCommand  : 'audacity',
+    toplinks: [
+        {
+            link: 'http://aleixo.botoes.co',
+            title: 'Aleixo'
+        },{
+            link: 'http://renato.botoes.co',
+            title: 'Renato'
+        },{
+            link: 'http://bussaco.botoes.co',
+            title: 'Bussaco'
+        },{
+            link: 'http://gato.botoes.co',
+            title: 'Gato'
+        },{
+            link: 'http://beatriz.botoes.co',
+            title: 'Beatriz'
+        },
+    ]
 };
